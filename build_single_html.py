@@ -90,7 +90,7 @@ html_template = f"""<!DOCTYPE html>
     <div class="nav-container">
       <a href="#home" class="logo">
         生態系管理工学研究室
-        <span>徳島大学 工学部 建設工学科</span>
+        <span>徳島大学 理工学部 理工学科 社会基盤デザインコース</span>
       </a>
       <button class="mobile-menu-btn"><i class="fas fa-bars"></i></button>
       <ul class="nav-links">
@@ -122,7 +122,7 @@ footer_template = f"""  </div>
       </div>
     </div>
     <div class="copyright">
-      &copy; 2026 徳島大学 工学部 建設工学科 生態系管理工学研究室. All Rights Reserved.
+      &copy; 2026 徳島大学 理工学部 理工学科 社会基盤デザインコース 生態系管理工学研究室. All Rights Reserved.
     </div>
   </footer>
 
